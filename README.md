@@ -15,7 +15,7 @@
   - [Yahoo! JAPAN Open Hack Day 3](https://hackday.yahoo.co.jp/history/2015/)
   - [Yahoo! JAPAN Hack Day 2017](https://about.yahoo.co.jp/hr/linotice/20170316.html)
 - &#x2328; Vimmer (Not fanatic :)
-- &#x1f440; My resume is [here]()
+- &#x1f440; My resume is [here](https://yuishihara.github.io)
 
 ## GitHub projects
 
